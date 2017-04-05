@@ -1,0 +1,6 @@
+def main():
+   for i in range(20, 0, -1):
+      print(i, end=' ')
+print()
+
+main()
